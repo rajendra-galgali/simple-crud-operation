@@ -1,0 +1,75 @@
+[2018-12-07 00:01:43.844] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48}
+[2018-12-07 00:02:36.595] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48}
+[2018-12-07 00:04:12.637] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48}
+[2018-12-07 00:05:02.644] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48}
+[2018-12-07 00:05:43.405] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48}
+[2018-12-07 00:06:33.044] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48}
+[2018-12-07 00:06:57.454] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48}
+[2018-12-07 00:07:11.904] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48}
+[2018-12-07 00:07:37.724] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48}
+[2018-12-07 00:07:52.914] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48}
+[2018-12-07 00:07:56.636] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48}
+[2018-12-07 00:08:35.178] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48}
+[2018-12-07 00:08:35.240] [INFO] userController - User is added successfully
+[2018-12-07 00:09:05.213] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48}
+[2018-12-07 00:09:05.277] [INFO] userController - User is added successfully
+[2018-12-07 00:11:23.472] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:16:53.996] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:17:08.278] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:17:32.189] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:18:18.458] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:18:30.036] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:19:38.161] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:20:01.644] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:20:15.609] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:20:20.188] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:21:12.567] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:21:20.091] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:21:33.609] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48}
+[2018-12-07 00:21:33.635] [INFO] userController - User is added successfully
+[2018-12-07 00:21:36.975] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:21:52.575] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:23:44.717] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":48,"fullName":"Josephine Darakjy"}
+[2018-12-07 00:23:44.748] [INFO] userController - User is added successfully
+[2018-12-07 00:23:52.449] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:31:29.437] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:31:44.684] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:31:57.789] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:34:52.439] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:42:36.907] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:42:46.098] [DEBUG] userController - user controller  ::  add user details request body:{"id":2,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":8,"fullName":"Josephine Darakjy"}
+[2018-12-07 00:42:46.138] [INFO] userController - User is added successfully
+[2018-12-07 00:42:48.988] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:42:55.476] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:43:07.236] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:43:10.602] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:43:23.482] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:47:19.966] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:47:24.234] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:48:02.349] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:48:02.415] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:48:06.923] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:48:29.967] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:49:36.708] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:50:09.898] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:50:18.781] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:50:24.819] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:53:55.952] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:54:05.182] [DEBUG] userController - user controller  ::  add user details request body:{"id":3,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":8,"fullName":"Josephine Darakjy"}
+[2018-12-07 00:54:05.204] [INFO] userController - User is added successfully
+[2018-12-07 00:54:11.948] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:55:03.351] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:55:27.093] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:55:41.698] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:56:04.988] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 00:56:14.940] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 01:08:11.113] [DEBUG] userController - user controller  ::  delete user 
+[2018-12-07 01:08:11.162] [INFO] userController - user controller  ::  delete user : user deleted successfully 
+[2018-12-07 01:08:15.134] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 01:08:25.529] [DEBUG] userController - user controller  ::  delete user 
+[2018-12-07 01:08:25.581] [INFO] userController - user controller  ::  delete user : user deleted successfully 
+[2018-12-07 01:08:28.819] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 01:09:46.216] [DEBUG] userController - user controller  ::  add user details request body:{"id":3,"first_name":"Josephine","last_name":"Darakjy","company_name":"Chanay, Jeffrey A Esq","city":"Brighton","state":"MI","zip":48116,"email":"josephine_darakjy@darakjy.org","web":"http://www.chanayjeffreyaesq.com","age":8,"fullName":"Josephine Darakjy"}
+[2018-12-07 01:09:46.256] [INFO] userController - User is added successfully
+[2018-12-07 01:09:49.229] [DEBUG] userController - user controller  ::  get all user 
+[2018-12-07 01:09:58.602] [DEBUG] userController - user controller  ::  get all user 
